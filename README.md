@@ -4,14 +4,14 @@ TaskTrack merupakan aplikasi manajemen tugas berbasis Android yang dirancang unt
 
 ## Fitur
 ```
-- CRUD Tugas        : tambah, lihat, edit, dan hapus tugas
-- Detail Tugas      : tampilan lengkap per tugas
-- Pencarian         : filter tugas berdasarkan kata kunci
+- CRUD Tugas        : Tambah, lihat, edit, dan hapus tugas
+- Detail Tugas      : Tampilan lengkap per tugas
+- Pencarian         : Filter tugas berdasarkan kata kunci
 - Filter Status     : Belum Dikerjakan / Sedang Dikerjakan / Selesai
-- Validasi Input    : notifikasi Toast jika ada field kosong
-- Dialog Konfirmasi : konfirmasi sebelum hapus data
-- DatePickerDialog  : pemilihan deadline via kalender
-- Offline-first     : semua data tersimpan lokal, tanpa internet
+- Validasi Input    : Notifikasi Toast jika ada field kosong
+- Dialog Konfirmasi : Konfirmasi sebelum hapus data
+- DatePickerDialog  : Pemilihan deadline via kalender
+- Offline-first     : Semua data tersimpan lokal, tanpa internet
 ```
 ## Tech Stack
 
