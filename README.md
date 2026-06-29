@@ -28,7 +28,7 @@ TaskTrack merupakan aplikasi manajemen tugas berbasis Android yang dirancang unt
 APK debug tersedia di:
 
 ```
-build/outputs/apk/debug/
+app/build/outputs/apk/debug/
 ```
 
 ## Struktur Proyek
